@@ -27,7 +27,13 @@ Right now, I’m exploring opportunities to work with startups, DAOs, or analyti
 ### Education 
 - B.Tech Mathematics (Federal University Of Technology Owerri, Nigeria)
 
-- FMVA Certification (Corporate Finance Institute) 
+- FMVA Certification (Corporate Finance Institute)
+
+### Certification 
+
+- FMVA Certification
+- Microsoft Power BI
+- IBM Business Management 
   
 
 ### 💻 Tech Stack 
@@ -35,4 +41,18 @@ Right now, I’m exploring opportunities to work with startups, DAOs, or analyti
 - 📝 Excel
 - 📊 Power BI
 - 🧑‍💻 Phyton
-- 🔗 Dune Analytics 
+- 🔗 Dune Analytics
+
+### Github Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancisBlaise&show_icons=true&theme=radical)
+
+
+### Top Languages 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCISBLAISE&layout=compact&theme=radical)
+
+
+### Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancisBlaise&theme=radical)
