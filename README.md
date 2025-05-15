@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Blaise a skilled data analyst with experience in the web2 & web3 space 
 
-<!--
-**FrancisBlaise/FrancisBlaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building with any founder with valuable product 
+- 🌱 I’m currently learning AI skills 
+- 👯 I’m looking to collaborate with saas, ceos, web3 builders 
+- 📫 How to reach me: francisblaise3@gmail.com
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack 
+- 🛢️ SQL
+- 📝 Excel
+- 📊 Power BI
+- 🧑‍💻 Phyton
+- 🔗 Dune Analytics 
