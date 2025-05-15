@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Blaise 
+### Hi there 👋 I'm Blaise 
 
 
 - 🔭 I’m currently building with any founder with valuable product
