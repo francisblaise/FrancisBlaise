@@ -13,7 +13,9 @@
 
 
 ### About Me
-I’m a skilled data analyst with expertise in Python, SQL, Excel, Power BI, and Dune Analytics, specializing in financial modeling, data visualization, and blockchain analytics. I deliver actionable insights for Web2 and Web3, from performance dashboards to token economy analysis. Passionate about empowering startups and DAOs with data-driven solutions, I’m eager to drive impact in innovative projects.
+I’m a skilled data analyst with expertise in Python, SQL, Excel, Power BI, and Dune Analytics, specializing in financial modeling, data visualization, and blockchain analytics.
+
+I deliver actionable insights for Web2 and Web3, from performance dashboards to token economy analysis. Passionate about empowering startups and DAOs with data-driven solutions, I’m eager to drive impact in innovative projects.
 
 
 ### 💻 Tech Stack 
