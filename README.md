@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently building with any founder with valuable product
   
-- 🌱 I’m currently learning AI skills
+- 🌱 I’m currently learning ml, prompt engineering and matploib 
   
-- 👯 I’m looking to collaborate with saas, ceos, web3 builders
+- 👯 I’m looking to collaborate with saas, ceo's, web3 builders & vc's
   
 - 📫 How to reach me: francisblaise3@gmail.com
+
+- 🧾 Resume: https://docs.google.com/document/d/1-uhyCmtfeXahbo800_H73L2t67kQibJSEAr7YVPYkgU/edit?usp=drivesdk
 
 
 ### About Me
@@ -23,18 +25,6 @@ My financial modeling skills allow me to break down business mechanics whether i
 
 Right now, I’m exploring opportunities to work with startups, DAOs, or analytics teams that are building the future of finance and decentralization.
 
-
-### Education 
-- B.Tech Mathematics (Federal University Of Technology Owerri, Nigeria)
-
-- FMVA Certification (Corporate Finance Institute)
-
-### Certification 
-
-- FMVA Certification
-- Microsoft Power BI
-- IBM Business Management 
-  
 
 ### 💻 Tech Stack 
 - 🛢️ SQL
