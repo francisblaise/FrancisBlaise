@@ -9,7 +9,9 @@
   
 - 📫 How to reach me: francisblaise3@gmail.com
 
-- 🧾 Resume: https://docs.google.com/document/d/1-uhyCmtfeXahbo800_H73L2t67kQibJSEAr7YVPYkgU/edit?usp=drivesdk
+- 🧾 Resume: https://shorturl.at/LFEtm
+
+- ✍️ Sometimes i write: https://medium.com/@Francisblaise
 
 
 ### About Me
