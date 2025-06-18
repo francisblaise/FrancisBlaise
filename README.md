@@ -21,17 +21,3 @@ I deliver actionable insights for Web2 and Web3, from performance dashboards to 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Github Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancisBlaise&show_icons=true&theme=radical)
-
-
-### Top Languages 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCISBLAISE&layout=compact&theme=radical)
-
-
-### Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancisBlaise&theme=radical)
