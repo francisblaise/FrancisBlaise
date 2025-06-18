@@ -1,11 +1,4 @@
 ### Hi there 👋 I'm Blaise 
-
-
-- 🔭 I’m currently building with any founder with valuable product
-  
-- 🌱 I’m currently learning ml, prompt engineering and matploib 
-  
-- 👯 I’m looking to collaborate with saas, ceo's, web3 builders & vc's
   
 - 📫 How to reach me: francisblaise3@gmail.com
 
@@ -21,11 +14,13 @@ I deliver actionable insights for Web2 and Web3, from performance dashboards to 
 
 
 ### 💻 Tech Stack 
-- 🛢️ SQL
-- 📝 Excel
-- 📊 Power BI
-- 🧑‍💻 Phyton
-- 🔗 Dune Analytics
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Github Stats
 
