@@ -8,7 +8,7 @@
 
 
 ### About Me
-Hi, I’m Francis — a data analyst focused on building tools, dashboards, and workflows that help startups, founders, and finance teams turn data into smarter decisions.
+A data analyst focused on building tools, dashboards, and workflows that help startups, founders, and finance teams turn data into smarter decisions.
 
 📊 Real-world projects in:
 - Financial Analytics
