@@ -8,9 +8,15 @@
 
 
 ### About Me
-I’m a skilled data analyst with expertise in Python, SQL, Excel, Power BI, and Dune Analytics, specializing in financial modeling, data visualization, and blockchain analytics.
+Hi, I’m Francis — a data analyst focused on building tools, dashboards, and workflows that help startups, founders, and finance teams turn data into smarter decisions.
 
-I deliver actionable insights for Web2 and Web3, from performance dashboards to token economy analysis. Passionate about empowering startups and DAOs with data-driven solutions, I’m eager to drive impact in innovative projects.
+📊 Real-world projects in:
+- Financial Analytics
+- E-commerce Metrics
+- Blockchain/NFT Insights
+- Excel, SQL, Python, Power BI
+
+📁 I share real data solutions and portfolio case studies here. Let’s collaborate on your next project.
 
 
 ### 💻 Tech Stack 
