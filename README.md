@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Blaise 
+### Hi there 👋 I'm Francis
   
 - 📫 How to reach me: francisblaise3@gmail.com
 
