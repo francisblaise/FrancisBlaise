@@ -1,29 +1,40 @@
-### Hi there 👋 I'm Francis
-  
-- 📫 How to reach me: francisblaise3@gmail.com
+# 👋 Hi, I'm Blaise
+**Blockchain Data Systems Engineer | Data Automation Specialist**
 
-- 🧾 Resume: https://shorturl.at/LFEtm
+🔗 I build tools that turn blockchain data into bots, dashboards, and automated decisions — fast, functional, and founder ready.  
+📊 I also deliver business facing data analytics solutions for optimization and growth.
 
-- ✍️ Sometimes i write: https://medium.com/@Francisblaise
+---
+
+## 🛠️ Tech & Tools I Work With
+
+### 🔗 Blockchain & Automation
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-EF2D5E?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Dune](https://img.shields.io/badge/Dune%20Analytics-7B3FE4?style=for-the-badge&logo=data&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-343434?style=for-the-badge&logo=matrix&logoColor=white)
+
+### 📊 Data & Analytics
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+---
+
+## 🚀 What I Build
+- 🧠 **Whale & NFT Radar Bots** (Telegram + Web3)
+- 💸 **Cross-chain Payout Engines** (ETH, BNB, Tron → NGN)
+- 📈 **On-Chain Dashboards** (Dune + SQL)
+- 📊 **Business Optimization Tools** (Inventory, Revenue, etc.)
 
 
-### About Me
-A data analyst focused on building tools, dashboards, and workflows that help startups, founders, and finance teams turn data into smarter decisions.
+---
 
-📊 Real-world projects in:
-- Financial Analytics
-- E-commerce Metrics
-- Blockchain/NFT Insights
-- Excel, SQL, Python, Power BI
+## 📫 Let’s Connect & Build
+📩 [francisblaise3@gmail.com] • [https://t.me/drealblaise]
 
-📁 I share real data solutions and portfolio case studies here. Let’s collaborate on your next project.
-
-
-### 💻 Tech Stack 
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
