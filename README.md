@@ -1,40 +1,39 @@
-# 👋 Hi, I'm Blaise
-**Blockchain Data Systems Engineer | Data Automation Specialist**
+Hi, I’m Blaise 👋
 
-🔗 I build tools that turn blockchain data into bots, dashboards, and automated decisions — fast, functional, and founder ready.  
-📊 I also deliver business facing data analytics solutions for optimization and growth.
+I combine the precision of a **Data Analyst** with the system building mindset of a **Blockchain Data Systems Engineer**.
 
----
+🔹 I analyze patterns, build dashboards, and extract insights from data  
+🔹 I also engineer automated tools that track wallets, trigger alerts, and execute real time logic using blockchain data flows
 
-## 🛠️ Tech & Tools I Work With
-
-### 🔗 Blockchain & Automation
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-EF2D5E?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Dune](https://img.shields.io/badge/Dune%20Analytics-7B3FE4?style=for-the-badge&logo=data&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-343434?style=for-the-badge&logo=matrix&logoColor=white)
-
-### 📊 Data & Analytics
-
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+From traditional business data to decentralized systems — I build tools that inform and act.
 
 ---
 
-## 🚀 What I Build
-- 🧠 **Whale & NFT Radar Bots** (Telegram + Web3)
-- 💸 **Cross-chain Payout Engines** (ETH, BNB, Tron → NGN)
-- 📈 **On-Chain Dashboards** (Dune + SQL)
-- 📊 **Business Optimization Tools** (Inventory, Revenue, etc.)
+### 🛠️ Tools I Use (By Stack):
 
+#### 🧱 Blockchain & Automation Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Web3.py](https://img.shields.io/badge/Web3.py-333333?style=for-the-badge&logo=ethereum&logoColor=white)
+![Etherscan API](https://img.shields.io/badge/Etherscan-2183c5?style=for-the-badge&logo=ethereum&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+#### 📊 Data Analytics Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![gspread](https://img.shields.io/badge/gspread-FF6D00?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect & Build
-📩 [francisblaise3@gmail.com] • [https://t.me/drealblaise]
+### 🤝 Let’s Connect
+
+📧 **Email:** `francisblaise3@gmail.com`  
+💬 **Telegram:** `@drealblaise`
 
