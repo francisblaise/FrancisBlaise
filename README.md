@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Francis
 
-**Data Analyst & Financial Analyst | Turning Business Data into Growth Decisions**
+**Data & Blockchain Analyst | Turning Data into Growth Decisions**
 
-I help founders, startups, and growing businesses solve real world problems through **data driven strategies**.  
-With experience in **finance and business analytics**, I specialize in turning raw data into clear insights, impactful reports, and decision ready dashboards.
+I help founders, startups, and blockchain protocols solve real world problems through **data driven strategies**.  
+With experience in **finance and blockchain analytics**, I specialize in turning raw data into clear insights, impactful reports, and decision ready dashboards.
 
 ---
 
 ## 🔍 What I Do
 
-- Analyze financial & business data to uncover insights
+- Analyze financial & blockchain data to uncover insights
 - Design dashboards that track key metrics and performance
 - Build systems for reporting, forecasting, and decision making
 - Clean, manage, and structure databases for analysis and scalability
@@ -25,6 +25,7 @@ With experience in **finance and business analytics**, I specialize in turning r
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="sandbox:/mnt/data/A_bar_chart_in_a_digital_image_with_a_dark_gray_ba.png" alt="Dune chart (dark mode)" />
 </p>
 
 ---
