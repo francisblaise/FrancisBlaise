@@ -25,7 +25,7 @@ With experience in **finance and blockchain analytics**, I specialize in turning
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="sandbox:/mnt/data/A_bar_chart_in_a_digital_image_with_a_dark_gray_ba.png" alt="Dune chart (dark mode)" />
+  <img src="https://img.shields.io/badge/Dune-Analytics-?style=for-the-badge&logo=dune&logoColor=white&labelColor=1a1a1a&color=F24C00" alt="Dune badge" />
 </p>
 
 ---
