@@ -32,7 +32,7 @@ With experience in **finance and blockchain analytics**, I specialize in turning
 ## 🤝 Let’s Connect
 
 📬 **Email**: [francisblaise3@gmail.com]  
-
+📜 **Resume**: [https://docs.google.com/document/d/1F2Dmmrhqpx_a8-hRra06sr05edwITE81/edit?usp=drivesdk&ouid=118349075757269097087&rtpof=true&sd=true]
 ---
 
 > *“Numbers tell stories. I help you hear them clearly and act with confidence.”*
